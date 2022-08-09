@@ -1,0 +1,11 @@
+:root {
+  --color-main: green; }
+
+.alert {
+  margin: 30px 0; }
+
+footer {
+  background: var(--color-main);
+  color: #fff;
+  padding: 10px;
+  text-align: center; }
